@@ -9,6 +9,11 @@ function App() {
         <p>
           Hola mundo!
         </p>
+        <p>
+        Rest parameters	Eddy Mena
+Method Properties	Eddy Mena
+Object assign method	Eddy Mena
+        </p>
         <a
           className="App-link"
           href="https://reactjs.org"
